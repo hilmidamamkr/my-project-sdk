@@ -1,8 +1,8 @@
 const { QontakSDK } = require("qontak-client");
 
 const api = new QontakSDK({
-  clientId: "dG7bIyfZPNib2iGR",
-  clientSecret: "qfhCCP5vhsF2ap8ho259ULJlpOfah8BP",
+  clientId: "",
+  clientSecret: "",
 });
 
 async function testSDK() {
